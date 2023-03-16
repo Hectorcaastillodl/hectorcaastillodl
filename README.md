@@ -12,4 +12,4 @@
  <img width=10% src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/>
  <img width=10% src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png"/>
 </p>
-![Anurag's GitHub stats][(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)]
+
